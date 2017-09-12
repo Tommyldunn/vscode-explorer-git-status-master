@@ -1,3 +1,4 @@
+### FYI: A big big big thank you to @karabaja4 for doing what Microsoft couldn't.
 # vscode-explorer-git-status
 Highlighting of git added, modified and ignored files inside Visual Studio Code File Explorer (similar to Atom).
 
